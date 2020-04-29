@@ -1,7 +1,7 @@
 <p align="center">
   <img src="http://fs5.directupload.net/images/170811/temp/d95hyzcf.png" alt="SAMD Banner"/>
 </p>
-
+<center>
 # SAMD Mitglieder Liste
 
 
@@ -10,3 +10,4 @@
 | Netlog |6| - |
 
 
+</center>

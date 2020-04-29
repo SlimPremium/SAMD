@@ -10,3 +10,9 @@
 | -------- | --- | -------- |
 | Netlog   | 6  | -  |
 | iBase   | 5  | -  |
+| iCloud   | 4  | -  |
+| jvK   | 4  | -  |
+| Lucas.   | 2  | -  |
+| DatQuotenRusse   | 2  | -  |
+| Jonas.Peters   | 2  | -  |
+| Mrs.Cupcake   | 0  | -  |

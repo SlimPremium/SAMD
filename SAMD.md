@@ -7,6 +7,6 @@
 
 | Spielername | Rang | Gehalt |
 | ----------- | ---- | ------ |
-| test || Letzte Nachricht wiederholen |
+| Netlog |6| - |
 
 

@@ -6,7 +6,7 @@
 
 # SAMD Mitglieder Liste
 
-
+<center>
 <table>
   <thead>
     <tr>

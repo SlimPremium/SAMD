@@ -4,10 +4,10 @@
 
 
 
-              # SAMD Mitglieder Liste
+# SAMD Mitglieder Liste
 
 
-              | Spielername | Rang | Gehalt |
-              | ----------- | ---- | ------ |
-              | Netlog |6| - |
+| Spielername | Rang | Gehalt |
+| ----------- | ---- | ------ |
+| Netlog |6| - |
 
